@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+chromadb
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
+socketio
+python-socketio
+aiohttp

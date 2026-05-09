@@ -1,0 +1,6 @@
+{
+  "name": "AIVENTRA",
+  "description": "AI-Assisted Investigative Reasoning & Forensic Reconstruction Platform for rapid investigative triage and evidence correlation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Investigative Reasoning", "Forensic Timeline Reconstruction", "Dynamic Knowledge Graph", "GPS Pattern Analysis"]
+}
